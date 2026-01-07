@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam!</h1>
-<h3 align="center">I'm a passionate new developer from Nigeria 🤣....i'm big on learning new things, making strong strides in my career with a long term goal of being a full stack developer embedded in the tech space. Id also like to think i'm competent in design principles on figma and replicating these designs with my development skills.</h3>
+<h4 align="left">I'm a passionate new developer from Nigeria 🤣....i'm big on learning new things, making strong strides in my career with a long term goal of being a full stack developer embedded in the tech space. Id also like to think i'm competent in design principles on figma and replicating these designs with my development skills.</h3>
 
 <p align="left"> <a href="https://twitter.com/elemz__" target="blank"><img src="https://img.shields.io/twitter/follow/elemz__?logo=twitter&style=for-the-badge" alt="elemz__" /></a>
   <a href="https://altschoolafrica.com/schools/engineering" target="_blank">
