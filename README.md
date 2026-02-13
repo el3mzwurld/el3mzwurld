@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Tailwind, Chakra UI**
 
-- 👨‍💻 All of my projects are available at [https://elemz.vercel.app/](https://elemz.vercel.app/)
+- 👨‍💻 Some of my projects are available at [My portfolio](https://elemi-port.vercel.app/)
 
 - 💬 Ask me about **react js**
 
